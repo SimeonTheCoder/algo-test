@@ -1,0 +1,22 @@
+3
+darts
+lose
+handball
+lose
+judo
+win
+Finish
+snooker
+lose
+swimming
+lose
+squash
+lose
+table tennis
+win
+Finish
+volleyball
+win
+basketball
+win
+Finish

@@ -1,0 +1,5 @@
+Red eggs: 1
+Orange eggs: 1
+Blue eggs: 2
+Green eggs: 0
+Max eggs: 2 -> blue
